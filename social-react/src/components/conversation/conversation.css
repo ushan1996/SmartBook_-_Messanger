@@ -1,0 +1,20 @@
+.convasation{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.convasation:hover{
+    background-color: rgb(208, 208, 245);
+}
+.convasationImage{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+.convasationName{
+    font-weight: 500;
+
+}
